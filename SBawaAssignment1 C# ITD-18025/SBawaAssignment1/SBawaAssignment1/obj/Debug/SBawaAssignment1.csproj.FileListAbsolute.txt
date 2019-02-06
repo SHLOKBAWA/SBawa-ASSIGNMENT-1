@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\bin\Debug\SBawaAssignment1.exe.config
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\bin\Debug\SBawaAssignment1.exe
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\bin\Debug\SBawaAssignment1.pdb
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.Form1.resources
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.exe
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.pdb
+C:\Users\ADMIN\Desktop\SBawaAssignment1 C# ITD-18025\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.csprojResolveAssemblyReference.cache
